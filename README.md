@@ -1,8 +1,6 @@
 # FitTrackr
 ## Membership Mangment Tool <p> <img src="logo.png" alt="Project Diagram" width="150" style="border: 1px solid black; border-radius: 10px;"> </p>
 
-![Gym Management System](https://link-to-your-image.com)
-
 The Gym Management System is a web application built using Java Spring Boot and MySQL for the backend, and HTML, CSS, and JavaScript for the frontend. This project was initially developed solely with JavaScript but has now been migrated to Java for the backend. The system is designed to facilitate gym administrators in managing gym members, classes, payments, and other related aspects of gym operations.
 
 ## Features
