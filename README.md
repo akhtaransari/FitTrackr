@@ -1,5 +1,5 @@
 # FitTrackr
-## Online Vegetable Sales Application <p> <img src="logo.png" alt="Project Diagram" width="150" style="border: 1px solid black; border-radius: 10px;"> </p>
+## Membership Mangment Tool <p> <img src="logo.png" alt="Project Diagram" width="150" style="border: 1px solid black; border-radius: 10px;"> </p>
 
 ![Gym Management System](https://link-to-your-image.com)
 
